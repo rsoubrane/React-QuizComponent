@@ -5,7 +5,7 @@ class QuizQuestion extends Component {
     constructor(props) {
         super(props)
         this.state = {
-            correctAnswer: false
+            incorrectAnswer: false
         }
     }
 
