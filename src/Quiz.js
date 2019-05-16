@@ -10,7 +10,6 @@ class Quiz extends Component {
         }
     }
 
-
     render() {
         return (
             <div>
